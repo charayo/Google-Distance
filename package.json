@@ -2,9 +2,9 @@
     "name": "distance-api-server",
     "version": "1.0.0",
     "description": "A simple Express server for fetching distance and ETA data from Google Maps API",
-    "main": "index.js",
+    "main": "server.js",
     "scripts": {
-      "start": "node index.js"
+      "start": "node server.js"
     },
     "keywords": [
       "express",
